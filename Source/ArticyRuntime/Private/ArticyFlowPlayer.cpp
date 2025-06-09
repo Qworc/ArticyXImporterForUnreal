@@ -645,4 +645,3 @@ AArticyFlowDebugger::AArticyFlowDebugger()
     ArticyImporterIcon->SetSprite(ImporterIconFinder.Object);
     FlowPlayer->SetIgnoreInvalidBranches(false);
 }
-
